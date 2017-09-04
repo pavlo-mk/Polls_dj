@@ -1,0 +1,6 @@
+*.sqlite3
+website/
+.idea/
+template/
+__pycache__/
+migrations/
